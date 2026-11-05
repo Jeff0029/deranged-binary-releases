@@ -9,10 +9,10 @@
 - **Spot** - Quadriped who axe you questions
 - **Terminator** - Biped who shoot first and ask prompts later
 ### Enemy Buildings
-- 3D printer - Ctrl C, Ctrl V robots into existence
-- Enthenas - Allows for more combat ready enemies
-- Portable Server Rack (PSR) - The cyber brain of the operation
-## Objective
+- **3D printer** - Ctrl C, Ctrl V robots into existence
+- **Antenna** - Allows for more combat ready enemies
+- **Portable Server Rack** (PSR) - The cyber brain of the operation
+## Objectives
 - Destroy or hack _Portable Server Rack_
 - Extract with Iron Lungs
 ## Controls
